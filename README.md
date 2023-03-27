@@ -1,0 +1,1 @@
+The current project at hand is to create a basic recipe website as a way to practice my skills with the HTML I have learned thus far in the odin project. So far everything has been fairly smooth sailing (famous last words) but the odin project is very well written and easily to follow along with which is a nice change of pace.
